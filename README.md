@@ -1,4 +1,4 @@
-# archivable [![Build Status](https://travis-ci.org/johnotander/archivable.svg?branch=master)](https://travis-ci.org/johnotander/archivable)
+# archivable [![Build Status](https://travis-ci.org/AndrewRPerkins/archivable.svg?branch=master)](https://travis-ci.org/AndrewRPerkins/archivable)
 
 Archive your Rails models rather than delete them. This provides the archiving functionality app so you can do the following:
 
